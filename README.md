@@ -27,6 +27,8 @@ The objective of this project is to predict the yield of wild blueberries based 
         │   
         ├── docs           <- Additional documentation
         │
+        |── notebooks      <- Contains notebooks
+        |
         ├── visualizations <- Code and Visualization dashboards generated for the project
         │
         └── results        <- Folder to store Final analysis and modelling results and code.
